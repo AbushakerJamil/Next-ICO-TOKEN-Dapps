@@ -1,22 +1,22 @@
 ICO PreSale (ERC20 Token) DApp
 Build & Deploy ICO PreSale (ERC20 Token) DApp | Solidity + Next.js | Binance, Polygon, Ethereum
 
-In this project, you'll learn how to build and deploy a full-stack ICO PreSale DApp from scratch using Solidity, Next.js, and Web3 tools. We'll create an ERC20 token, build a presale smart contract, and deploy it on Binance Smart Chain (BSC), Polygon, and Ethereum. The frontend will be developed in Next.js and integrated using wagmi, web3.js, and Web3 Provider to connect user wallets like MetaMask.
+In this project, you'll learn how to build and deploy a full-stack ICO PreSale DApp from scratch using Solidity, Next.js, and Web3 tools. I create an ERC20 token, build a presale smart contract, . The frontend will be developed in Next.js and integrated using wagmi, web3.js, and Web3 Provider to connect user wallets like MetaMask.
 
-💡 What You’ll Learn:
+💡 What I Learn:
 
 How to create an ERC20 token in Solidity
 How to build an ICO PreSale smart contract
 Deploy smart contracts to BSC, Polygon, and Ethereum
 Integrate smart contracts with a frontend using Next.js
-Use wagmi and web3.js for Web3 wallet integration
+Use wagmi and ether.js for Web3 wallet integration
 Connect MetaMask and manage user interaction
-🚀 Tech Stack:
+* Tech Stack:
 
 # ERC20 Token Standard
 Solidity Smart Contracts
 Next.js Frontend Framework
-web3.js & wagmi for Web3 functionality
+ether.js & wagmi for Web3 functionality
 Web3 Provider for wallet connections
 📦 Tags: erc20 token, nextjs solidity, web3.js, wagmi, ICO presale DApp, BSC token sale, polygon crypto, ethereum dapp, deploy ICO, smart contract
 
@@ -28,30 +28,14 @@ Web3 Provider for wallet connections
 Instruction
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-Final Source Code
-Setup Video
-Final Code Setup video
-Deploying Dapp
-  WATCH: Hostinger
-  Get : 
-  URL: 
-MULTI-CURRENCY ICO DAPP
-  PROJECT: MULTI-CURRENCY ICO DAPP
-  Code: 
-  VIDEO:
 Install Vs Code Editor
   GET: VsCode Editor
   URL: https://code.visualstudio.com/download
 NodeJs & NPM Version
-  NodeJs: v18.17.1 / LATEST
-  NPM: 8.19.2
-  URL: 
-  Video: https://youtu.be/PIR0oBVowXU?si=9eNdR29u37F2ujJJ
+  NodeJs: v / LATEST
+  NPM: LATEST
 
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Jamil
 
-Final Code Instruction
-If you download the final source code then you can follow the following instructions to run the Dapp successfully
 
 🐛 Troubleshooting
 Common Issues
